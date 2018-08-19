@@ -10,3 +10,5 @@ sudo apt-get install nodejs npm mongodb -y
 
 # Allow the installation of native extensions
 sudo npm install -g node-gyp
+# Tool for creating skeleton express projects
+sudo npm install express-generator -g
